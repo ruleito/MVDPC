@@ -1,5 +1,5 @@
 # MVDPC
-search, disable, move pc 
+search, disable, move pc on Active Directory
 
 Данный скрипт выбирает из каталога Active Directory компьютеры соответствующие по условию - последний логин более 45 дней ($date_with_offset) из атрибута LastLogonDate.
 
